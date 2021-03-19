@@ -10,7 +10,7 @@ into TABLE @et_table
 WHERE devclass = @iv_devclass.
 
 " method adding just to check ATC check
-" TABLES: tcurc.
+" TABLES: tcurc. !!!
 *
 *DATA: lv_isocd type ISOCD.
 *
